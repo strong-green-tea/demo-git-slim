@@ -10,5 +10,9 @@
         "psr-4": {
             "Demo\\DemoGitSlim\\": "classes/"
         }
+    },
+    "config": {
+
+        "platform-check": false
     }
 }
